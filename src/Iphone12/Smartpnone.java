@@ -6,6 +6,8 @@ public class Smartpnone {
 		// TODO Auto-generated method stub
 
 		System.out.println("Smartphone");
+		
+		System.out.println("this is my new phone");
 	}
 
 }
