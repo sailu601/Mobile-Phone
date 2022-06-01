@@ -13,6 +13,7 @@ public class Smartpnone {
 		System.out.println("The iphone is ready to pick");
 		System.out.println("the iphone is delivered");
 		System.out.println("Checking webhook");
+		System.out.println("Time zone check");
 		
 	}
 
