@@ -15,6 +15,8 @@ public class Smartpnone {
 		System.out.println("Checking webhook");
 		System.out.println("Time zone check");
 		
+		System.out.println("Checking webhook");
+		
 	}
 
 }
