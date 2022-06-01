@@ -10,6 +10,7 @@ public class Smartpnone {
 		System.out.println("this is my new phone");
 		
 		System.out.println("this is iphone13");
+		System.out.println("The iphone is ready to pick");
 	}
 
 }
