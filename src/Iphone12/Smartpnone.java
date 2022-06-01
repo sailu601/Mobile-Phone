@@ -8,6 +8,8 @@ public class Smartpnone {
 		System.out.println("Smartphone");
 		
 		System.out.println("this is my new phone");
+		
+		System.out.println("this is iphone13");
 	}
 
 }
